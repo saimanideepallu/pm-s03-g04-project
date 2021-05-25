@@ -26,3 +26,12 @@
 <img src="images/Banda.jpeg" width=200 height=200/>
 
 *  Narsing Rao Nikitha Madhari
+
+## Project Charter
+
+## Scope
+
+## Schedule
+
+## Budget
+
