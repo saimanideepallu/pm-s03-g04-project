@@ -14,7 +14,7 @@
 
 ## Our Team
 *  Sai Manideep Allu
-
+   ![GitHub Logo](/images/logo.png)
 *  Sindhura Potluri
 
 *  Rasagna Reddy Banda
