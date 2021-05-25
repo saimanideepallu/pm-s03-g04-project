@@ -16,8 +16,13 @@
 *  Sai Manideep Allu
 
 <img src="images/allu.jpeg" width=200 height=200/>
+
 *  Sindhura Potluri
 
+<img src="images/potluri.jpeg" width=200 height=200/>
+
 *  Rasagna Reddy Banda
+
+<img src="images/Banda.jpeg" width=200 height=200/>
 
 *  Narsing Rao Nikitha Madhari
