@@ -15,7 +15,7 @@
 ## Our Team
 *  Sai Manideep Allu
 
-![Allu](/images/allu.jpeg)
+<img src alt="images/allu.jpeg" width=200 height=200/>
 *  Sindhura Potluri
 
 *  Rasagna Reddy Banda
