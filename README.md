@@ -27,7 +27,7 @@
 
 *  Narsing Rao Nikitha Madhari
 
-## Project Charter
+## [project Charter](https://github.com/saimanideepallu/pm-s03-g04-project/blob/main/charter.md)
 
 ## Scope
 
