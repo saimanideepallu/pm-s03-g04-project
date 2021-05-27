@@ -87,6 +87,7 @@
   </ul>  
 </ul>
 
+![Schedule-1]("images/sched1.jpg")
 ## Budget
 ### TBD
 
