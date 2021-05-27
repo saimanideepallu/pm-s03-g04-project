@@ -87,7 +87,15 @@
   </ul>  
 </ul>
 
-![Schedule-1]("images/sched1.jpg")
+<img src="images/sched1.jpeg" />
+
+<img src="images/sched2.jpeg" />
+
+<img src="images/sched3.jpeg" />
+
+<img src="images/sched4.jpeg" />
+
+
 ## Budget
 ### TBD
 
