@@ -106,3 +106,6 @@
 <img src="images/budget.jpeg" />
 
 #### [View Budget](https://github.com/saimanideepallu/pm-s03-g04-project/blob/main/budget/ProjectBudget.xlsx)
+
+## References
+1.  [https://www.smartsheet.com/blog/project-charter-templates-and-guidelines-every-business-need](https://www.smartsheet.com/blog/project-charter-templates-and-guidelines-every-business-need)
