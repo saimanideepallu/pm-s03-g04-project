@@ -73,6 +73,8 @@
 <li>5.1 Project closing formalities</li>
 </ul>
 
+#### [View Scope](https://github.com/saimanideepallu/pm-s03-g04-project/blob/main/scope/wbs.mpp)
+
 ## Schedule
 <ul>
   <li>Start date</li>
