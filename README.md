@@ -97,5 +97,5 @@
 
 
 ## Budget
-<img src="images/budget.jpg" />
+<img src="images/budget.jpeg" />
 
