@@ -25,7 +25,7 @@
 
 <img src="images/Banda.jpeg" width=200 height=200/>
 
-*  Narsing Rao Nikitha Madhari
+*  [Narsing Rao Nikitha Madhari](https://github.com/NikithaMN-05)
 
 <img src="images/madhari.jpeg" width=200 height=200/>
 
