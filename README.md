@@ -30,7 +30,7 @@
 
 <img src="images/madhari.jpeg" width=200 height=200/>
 
-#### [project Charter](https://github.com/saimanideepallu/pm-s03-g04-project/blob/main/charter.md)
+#### [Project Charter](https://github.com/saimanideepallu/pm-s03-g04-project/blob/main/charter.md)
 
 ## Scope
 ### Work Breakdown Structure
