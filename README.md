@@ -21,7 +21,7 @@
 
 <img src="images/potluri.jpeg" width=200 height=200/>
 
-*  Rasagna Reddy Banda
+*  [Rasagna Reddy Banda](https://github.com/Rasagna0409)
 
 <img src="images/Banda.jpeg" width=200 height=200/>
 
