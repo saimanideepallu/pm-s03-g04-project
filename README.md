@@ -9,8 +9,8 @@
 *  Budget
 
 ## Our Project
-*  Analyzing the company data to improve sales
-*  It was a project to gather the data and utilize it effectively to get the insights out of it.
+*  Analyzing the insurance company data to improve insurance policy sales.
+*  An private insurance company was suffering from losses, So by using the historical data that company has been maintaining with it and also by using external data we has been analyzed the data and suggested the company to improve its insurance policy sales.
 
 ## Our Team
 *  Sai Manideep Allu
