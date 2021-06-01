@@ -97,5 +97,5 @@
 
 
 ## Budget
-### TBD
+<img src="images/budget.jpg" />
 
