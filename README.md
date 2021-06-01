@@ -13,7 +13,7 @@
 *  An private insurance company was suffering from losses, So by using the historical data that company has been maintaining with it and also by using external data we has been analyzed the data and suggested the company to improve its insurance policy sales.
 
 ## Our Team
-*  Sai Manideep Allu
+*  [Sai Manideep Allu](https://github.com/saimanideepallu)
 
 <img src="images/allu.jpeg" width=200 height=200/>
 
