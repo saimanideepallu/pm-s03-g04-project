@@ -17,7 +17,7 @@
 
 <img src="images/allu.jpeg" width=200 height=200/>
 
-*  Sindhura Potluri
+*  [Sindhura Potluri](https://github.com/sindhurapotluri)
 
 <img src="images/potluri.jpeg" width=200 height=200/>
 
