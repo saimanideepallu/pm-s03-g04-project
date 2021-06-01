@@ -99,5 +99,6 @@
 
 
 ## Budget
+*  The total budget cost has been estimated as $1,80,000 but the total expenses for this project is $1,69,370. So, now by working on this project we are with profit of $10,630.
 <img src="images/budget.jpeg" />
 
