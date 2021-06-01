@@ -109,3 +109,4 @@
 
 ## References
 1.  [https://www.smartsheet.com/blog/project-charter-templates-and-guidelines-every-business-need](https://www.smartsheet.com/blog/project-charter-templates-and-guidelines-every-business-need)
+2.  [https://www.projectmanager.com/project-scheduling](https://www.projectmanager.com/project-scheduling)
