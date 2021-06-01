@@ -7,6 +7,7 @@
 *  Scope
 *  Schedule
 *  Budget
+*  References
 
 ## Our Project
 *  Analyzing the insurance company data to improve insurance policy sales.
