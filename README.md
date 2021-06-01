@@ -1,4 +1,4 @@
-# pm-s03-g04-project
+# Insurance company data analysis
 
 ## Table of contents
 *  Our Project
