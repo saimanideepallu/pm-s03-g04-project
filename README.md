@@ -92,13 +92,13 @@
   </ul>  
 </ul>
 
-<img src="images/sched1.jpeg" />
+<img src="images/s1.jpeg" />
 
-<img src="images/sched2.jpeg" />
+<img src="images/s2.jpeg" />
 
-<img src="images/sched3.jpeg" />
+<img src="images/s3.jpeg" />
 
-<img src="images/sched4.jpeg" />
+<img src="images/s4.jpeg" />
 
 #### [View Schedule](https://github.com/saimanideepallu/pm-s03-g04-project/blob/main/schedule/schedule_wbs.mpp)
 
