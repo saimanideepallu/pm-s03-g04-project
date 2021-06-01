@@ -6,11 +6,11 @@
 
 ### **Start Date:** *5/25/2021*
 ### **Finish Date:** *10/4/2021*
-### **
+
 
 ### **Project Description:** *This project is to gather the insurance company data and find out the hidden patterns inside the data to imrpove the sales and attract new customers into the insurance policy.*
 
-### **Budget:** *$85,000*
+### **Budget:** *$1,80,000*
 
 ### **Team:**
 Name | Role | Mail.Id
