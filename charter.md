@@ -12,6 +12,13 @@
 
 ### **Budget:** *$1,80,000*
 
+### **Success Criteria** 
+ *  Data should be properly scrapped.
+ *  Data should be properly warehoused.
+ *  Proper data cleaning practices need to be used.
+ *  Must satisfy client requirement questions.
+ *  Deployment measures need to be considered.
+
 ### **Team:**
 Name | Role | Mail.Id
 ------------ | ------------- | -------------
