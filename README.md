@@ -84,7 +84,7 @@
   </ul>  
   <li>End date</li>
   <ul>
-    <li>10/4/21</li>
+    <li>8/23/21</li>
   </ul>  
   <li>Duration</li>
   <ul>
