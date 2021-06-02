@@ -23,6 +23,6 @@
 Name | Role | Mail.Id
 ------------ | ------------- | -------------
 Sai Manideep Allu | Project Manager | s542406@nwmissouri.edu
-Sindhura Potluri | Data Scientist | s541912@nwmissouri.edu
-Nikitha Madhari | Data Analyst | s541994@nwmissouri.edu
+Sindhura Potluri | Data Analyst | s541912@nwmissouri.edu
+Nikitha Madhari | Tester | s541994@nwmissouri.edu
 Rasagna reddy banda | ML Engineer | s542264@nwmissouri.edu
